@@ -63,7 +63,7 @@ This project consists of 3 folders.
 
 * Next. js, Material UI
 * Node.js, Express
-* Jest, jest-mock-axios
+* Jest, jest-mock-axios // I've used jest-mock-axios instead of jest-fetch-mock because I've used axios instead of fecth.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -88,6 +88,24 @@ This is an example of how to run a pogram.
 2. Install NPM packages in each folder. backend, frontend, json-server
    ```sh
    npm install
+   ```
+
+### How to run
+
+1. Backend
+   ```sh
+   cd backend
+   npm run test
+   ```
+2. frontend
+   ```sh
+   // Run json server first. (port is 5000)
+   cd json-server
+   npm start
+
+   // Run frontend
+   cd frontend
+   npm run dev (port is 3000)
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
