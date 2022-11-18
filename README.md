@@ -85,8 +85,14 @@ This is an example of how to run a pogram.
    ```sh
    git clone repository-url-here
    ```
-2. Install NPM packages in each folder. backend, frontend, json-server
+2. Install NPM packages in each folder. backend, frontend, json-server  
+  We can integrate node packages in real pratice but I've simply made it separtely for the test.
    ```sh
+   cd backend
+   npm install
+   cd ../frontend
+   npm install
+   cd ../json-server
    npm install
    ```
 
