@@ -1,0 +1,53 @@
+{
+  "categories": ["bread", "bean", "meat"],
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Whole Grain Banana Bread",
+      "slug": "grain-banana",
+      "category": "bread",
+      "description": "In season: Bananas are available year-round. How to Buy: Choose evenly colored, yellow bananas without blemishes. For a longer shelf life, choose greener bananas. Those with brown specks will be riper and sweeter. Storage:...",
+      "preparation": "10 mins",
+      "bake": "1 hr to 1 hr 15 mins",
+      "total": "1 hr 10 mins",
+      "yield": "1 loaf, 12 generous servings",
+      "image": "https://images.pexels.com/photos/4114141/pexels-photo-4114141.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 2,
+      "name": "another 1",
+      "slug": "another-1",
+      "category": "bread",
+      "description": "In season: Bananas are available year-round. How to Buy: Choose evenly colored, yellow bananas without blemishes. For a longer shelf life, choose greener bananas. Those with brown specks will be riper and sweeter. Storage:...",
+      "preparation": "10 mins",
+      "bake": "1 hr to 1 hr 15 mins",
+      "total": "1 hr 10 mins",
+      "yield": "1 loaf, 12 generous servings",
+      "image": "https://images.pexels.com/photos/4114120/pexels-photo-4114120.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 3,
+      "name": "bean 2",
+      "slug": "bean-2",
+      "category": "bean",
+      "description": "bean beanbean beanbean beanbean beanbean beanbean beanbean beanbean beanbean bean",
+      "preparation": "10 mins",
+      "bake": "1 hr to 1 hr 15 mins",
+      "total": "1 hr 10 mins",
+      "yield": "1 loaf, 12 generous servings",
+      "image": "https://images.pexels.com/photos/6605770/pexels-photo-6605770.jpeg?auto=compress&cs=tinysrgb&w=1600"
+    },
+    {
+      "id": 4,
+      "name": "Meat 1111",
+      "slug": "meat-1111",
+      "category": "meat",
+      "description": "Meat 111111",
+      "preparation": "10 mins",
+      "bake": "1 hr to 1 hr 15 mins",
+      "total": "1 hr 10 mins",
+      "yield": "1 loaf, 12 generous servings",
+      "image": "https://images.pexels.com/photos/769289/pexels-photo-769289.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+.header :global{
+  .main-menu-item {
+    color: rgb(73, 73, 73);
+    text-decoration: none;
+    margin-right: 2.5rem;
+    &.active {
+      border-bottom: 2px solid red;
+    }
+  }
+}
